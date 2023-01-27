@@ -31,4 +31,10 @@ const Editor = () => {
           cornerSize: 20,
           rotatingPointOffset: 70,
         }}
-      
+        usageStatistics={true}
+      />
+    </div>
+  )
+}
+
+export default Editor;
